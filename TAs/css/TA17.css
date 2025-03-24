@@ -1,0 +1,47 @@
+html,
+body {
+  background-color: aquamarine;
+  height: 100%;
+  margin: 0;
+}
+
+#div-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#div-card {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#mcLovin {
+  width: 100px;
+  height: auto;
+  margin-top: -3%;
+  border-radius: 50%;
+}
+
+.centered {
+  text-align: center;
+}
+
+.div-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #174486;
+  text-shadow: 2px 2px 0px black;
+  margin: 2% 0 0 0;
+}
